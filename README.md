@@ -1,2 +1,2 @@
 # testGPT-llm
-![image alt](https://github.com/hpk22/testGPT-llm/tree/c575ac37bae4168349e3fe0b2b696986f9979bf4/screenshots)
+![image alt](https://github.com/hpk22/testGPT-llm/blob/7d577888edd92a667c1f2416475c526c11cd7a09/screenshots/ss01.jpg)
