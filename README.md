@@ -32,5 +32,29 @@ This tool uses a multimodal Large Language Model (LLM) to generate detailed test
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/multimodal-llm-testing-instructions.git
+   git clone https://github.com/hpk22/test-GPT-llm.git
    cd multimodal-llm-testing-instructions
+   Install my-project with npm
+- Front-end setup: 
+```bash
+npx create-react-app client
+```
+```bash
+npm install axios
+```
+```bash
+npm start
+```
+- Back-end setup
+
+```bash
+python -m venv venv
+```
+- Install required dependencies
+```bash
+pip install flask flask-cors python-dotenv openai Werkzeug
+```
+- Run flask application 
+```bash
+python app.py
+```
