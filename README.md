@@ -58,3 +58,6 @@ pip install flask flask-cors python-dotenv openai Werkzeug
 ```bash
 python app.py
 ```
+### How to access the application
+Access the Application
+Open your browser and navigate to ```http://localhost:3000``` (for React) or the relevant URL for your front-end setup.
