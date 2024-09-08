@@ -1,6 +1,4 @@
-# testGPT-llm
-<img src="https://github.com/hpk22/testGPT-llm/blob/7d577888edd92a667c1f2416475c526c11cd7a09/screenshots/ss01.jpg" alt="Your image title" width="250"/>
-# Multimodal LLM-Based Testing Instruction Generator
+# Multimodal LLM-Based Testing Instruction Generator : testGPT
 
 This tool uses a multimodal Large Language Model (LLM) to generate detailed testing instructions for digital product features based on screenshots. By uploading screenshots and providing optional context, the tool outputs step-by-step testing guides, including descriptions, pre-conditions, testing steps, and expected results.
 
@@ -28,6 +26,7 @@ This tool uses a multimodal Large Language Model (LLM) to generate detailed test
 - **Node.js** and **npm** (for React-based front-end).
 - **Python** and **pip** (for Flask back-end).
 - Access to a multimodal LLM model that can process images and text inputs (like OpenAI's DALL-E or similar models from Hugging Face).
+  <img src="https://github.com/hpk22/testGPT-llm/blob/7d577888edd92a667c1f2416475c526c11cd7a09/screenshots/ss01.jpg" alt="Your image title" width="250"/>
 
 ### Installation
 
