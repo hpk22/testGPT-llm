@@ -1,6 +1,6 @@
 # Multimodal LLM-Based Testing Instruction Generator : testGPT
 
-This tool uses a multimodal Large Language Model (LLM) to generate detailed testing instructions for digital product features based on screenshots. By uploading screenshots and providing optional context, the tool outputs step-by-step testing guides, including descriptions, pre-conditions, testing steps, and expected results.
+This tool uses a multimodal Large Language Model (LLM) to generate detailed testing instructions for digital product features based on screenshots. By uploading screenshots and providing optional context, the tool outputs step-by-step testing guides, including descriptions, pre-conditions, testing steps, and expected results  making QA testers life better !
 
 ## Features
 
@@ -16,8 +16,8 @@ This tool uses a multimodal Large Language Model (LLM) to generate detailed test
 ## Tech Stack
 
 - **Front-end**: HTML, CSS, JavaScript, and optionally React for a more dynamic interface.
-- **Back-end**: Flask (Python) or Node.js with Express.
-- **LLM Integration**: Using a multimodal LLM model from OpenAI, Hugging Face, or another provider that supports image and text input.
+- **Back-end**: Flask (Python).
+- **LLM Integration**: Using a multimodal LLM model from OpenAI for image recognition.
 
 ## Getting Started
 
@@ -33,8 +33,9 @@ This tool uses a multimodal Large Language Model (LLM) to generate detailed test
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/hpk22/test-GPT-llm.git
-   cd multimodal-llm-testing-instructions
-   Install my-project with npm
+   cd freshllm-2/
+   ls
+  
 - Front-end setup: 
 ```bash
 npx create-react-app client
